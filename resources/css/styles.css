@@ -1,0 +1,14 @@
+/**
+dfdfg
+ */
+h1 {
+    color: white;
+    background-color: black;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    src:url('../assets/1.woff2') format('woff2')
+}
